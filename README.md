@@ -65,7 +65,7 @@ Use the following command to run your application:
 
 ## Step 5: Access Swagger UI
 
-Visit `http://localhost:8080/swagger-ui.html` to view the Swagger documentation for your REST API.
+Visit `http://localhost:8080/api/swagger-ui.html` to view the Swagger documentation for your REST API.
 
 ## Conclusion
 
