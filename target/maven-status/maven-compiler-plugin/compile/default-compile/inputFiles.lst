@@ -1,0 +1,5 @@
+/Users/nazima/Github/spring-boot-3-openapi-swagger-example/src/main/java/com/springboot/example/docs/DocsApplication.java
+/Users/nazima/Github/spring-boot-3-openapi-swagger-example/src/main/java/com/springboot/example/docs/config/SwaggerConfig.java
+/Users/nazima/Github/spring-boot-3-openapi-swagger-example/src/main/java/com/springboot/example/docs/controller/ProductsController.java
+/Users/nazima/Github/spring-boot-3-openapi-swagger-example/src/main/java/com/springboot/example/docs/service/ProductService.java
+/Users/nazima/Github/spring-boot-3-openapi-swagger-example/src/main/java/com/springboot/example/docs/vo/Product.java

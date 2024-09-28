@@ -1,0 +1,5 @@
+com/springboot/example/docs/vo/Product.class
+com/springboot/example/docs/controller/ProductsController.class
+com/springboot/example/docs/service/ProductService.class
+com/springboot/example/docs/config/SwaggerConfig.class
+com/springboot/example/docs/DocsApplication.class
