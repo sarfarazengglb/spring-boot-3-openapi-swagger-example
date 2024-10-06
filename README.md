@@ -6,7 +6,7 @@ You can follow on Medium
 
 https://medium.com/@sarfarazengglb/spring-boot-3-easy-swagger-integration-for-rest-api-documentation-69836767e803
 
-## Prerequisites
+## Prerequisites...
 
 - JDK 21 or higher
 - Maven
